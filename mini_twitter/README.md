@@ -1,6 +1,6 @@
 # Mini-Twitter API
 
-Mini-Twitter é uma API RESTful construída com Django e Django REST Framework. Ela permite que usuários se registrem, façam login via JWT, criem posts, sigam outros usuários e visualizem uma timeline paginada.
+Mini-Twitter é uma API RESTful construída com Django e Django REST Framework. Ela permite que usuários se registrem, façam login via JWT, criem posts e visualizem uma timeline paginada.
 
 ## Tecnologias
 
