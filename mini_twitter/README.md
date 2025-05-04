@@ -22,11 +22,11 @@ Mini-Twitter é uma API RESTful construída com Django e Django REST Framework. 
 
 # Rotas Principais
 
-POST /api/register/           → Criar usuário
-POST /api/token/              → Obter tokens (JWT)
-POST /api/token/refresh/      → Renovar token
-GET /api/posts/               → Ver posts
-POST /api/posts/              → Criar post (autenticado)
+- POST /api/register/           → Criar usuário
+- POST /api/token/              → Obter tokens (JWT)
+- POST /api/token/refresh/      → Renovar token
+- GET /api/posts/               → Ver posts
+- POST /api/posts/              → Criar post (autenticado)
 
 ## 📄 Documentação da API
 
